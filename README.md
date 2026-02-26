@@ -2,6 +2,8 @@
 
 Projeto desenvolvido para a matéria de **Qualidade de Software** pelos alunos **Kiury Mariano** e **Leonardo Paes**.
 
+O objetivo original era apenas desenvolver uma calculadora simples, mas também foi implementada uma calculadora de juros para investimentos.
+
 ## Como rodar o projeto
 
 ### Pré-requisitos
