@@ -1,4 +1,5 @@
 ﻿import { useMemo, useState, type ChangeEvent } from 'react'
+import './BasicCalculator.css'
 
 const formatBasic = new Intl.NumberFormat('pt-BR', {
   maximumFractionDigits: 4,

@@ -1,0 +1,11 @@
+﻿.complex {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 24px;
+}
+
+.results {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
