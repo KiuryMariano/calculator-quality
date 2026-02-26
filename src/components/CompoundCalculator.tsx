@@ -1,6 +1,6 @@
 ﻿import { useMemo, useState, type ChangeEvent } from 'react'
 import { calculateCompound } from '../utils/finance'
-import './CompoundCalculator.css'
+import '../styles/CompoundCalculator.css'
 
 const currencyFormatter = new Intl.NumberFormat('pt-BR', {
   style: 'currency',
