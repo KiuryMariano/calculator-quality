@@ -6,7 +6,7 @@ const App = () => {
   return (
     <main className="page">
       <header className="hero">
-        <p className="eyebrow">Calculadora financeira</p>
+        <p className="eyebrow">Calculadora financeira Editada para o Vercel</p>
         <h1>Projeção de juros compostos com aportes mensais</h1>
         <p className="lead">
           Preencha os campos e veja a evolução do seu capital ao longo do tempo.
